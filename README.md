@@ -1,6 +1,11 @@
 Hello, I'm Lj V. Miranda!
 
-Currently, I am a PhD Student at the University of Cambridge (@cambridgeltl). Broadly, I explore how we can develop equitable language technologies through cheap, small, and specialized language models deployed to the edge, i.e., nearest to the communities who need these technologies the most.
+I am a PhD Student at the University of Cambridge. 
+Broadly, I explore how we can develop equitable language technologies through cheap, small, and specialized language models deployed to the edge, i.e., nearest to the communities who need these technologies the most.
+
+I believe that good data is the foundation for building these models, especially when working with low-resource languages where data is scarce and quality matters more. 
+I'm excited about techniques that involve creative (or in Tagalog, ma-diskarte) ways to extract high quality signals given these extreme constraints. 
+That said, I’m always open to learning new approaches!
 
 ### Other links
 
