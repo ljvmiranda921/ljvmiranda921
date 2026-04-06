@@ -9,4 +9,4 @@ That said, I’m always open to learning new approaches!
 
 ### Other links
 
-You can reach me through my main [website / blog](https://ljvmiranda921.github.io) where you can also check out my [research](https://ljvmiranda921.github.io/research), play the [games I developed](https://ljvmiranda921.itch.io) using Godot / Pico-8, and look at the [photos I took](https://ljvmiranda921.github.io/gallery) using a GameBoy Camera.
+You can reach me through my main [website / blog](https://ljvmiranda921.github.io) where you can also check out the [research](https://ljvmiranda921.github.io/research) I published, play the [games](https://ljvmiranda921.itch.io) I made using Godot / Pico-8, and look at the [photos](https://ljvmiranda921.github.io/gallery) I took using a GameBoy Camera.
