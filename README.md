@@ -1,1 +1,3 @@
-Hello, I'm Lj V. Miranda! You can reach me through my main [**website / blog**](https://ljvmiranda921.github.io) where you can also check out the [**research**](https://ljvmiranda921.github.io/research) I published, play the [**games**](https://ljvmiranda921.itch.io) I made using Godot / Pico-8, and look at the [**photos**](https://ljvmiranda921.github.io/gallery) I took using a GameBoy Camera.
+Hello, I'm Lj V. Miranda! 
+
+You can reach me through my main [website / blog](https://ljvmiranda921.github.io) where you can also check out the [research](https://ljvmiranda921.github.io/research) I published, play the [games](https://ljvmiranda921.itch.io) I made using Godot / Pico-8, and look at the [photos](https://ljvmiranda921.github.io/gallery) I took using a GameBoy Camera.
