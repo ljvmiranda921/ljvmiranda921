@@ -1,4 +1,7 @@
 Hello, I'm Lj V. Miranda! 
 
-You can reach me through my [website](https://ljvmiranda921.github.io) (which also serves as my blog). In addition, you can also check out my [research interests](https://ljvmiranda921.github.io/research), play the [games](https://ljvmiranda921.itch.io) I made, and look at my [GameBoy Camera photos](https://ljvmiranda921.github.io/gallery).
-By the way, here's [my CV](https://storage.googleapis.com/ljvmiranda/cv.pdf) if you're interested. You can find my full publication list in [Google Scholar](https://scholar.google.com/citations?user=2RtnNKEAAAAJ&hl=en).
+I have a [website / blog](https://ljvmiranda921.github.io) which I update more regularly. 
+You probably know me as an NLP researcher, so you might be interested in my [latest works and research interests](https://ljvmiranda921.github.io/research) or [all of my publications](https://scholar.google.com/citations?user=2RtnNKEAAAAJ&hl=en).
+But I also do other things like [game dev](https://ljvmiranda921.itch.io) or [retro photography](https://ljvmiranda921.github.io/gallery) if that's what you fancy.
+Also, here's my [CV](https://storage.googleapis.com/ljvmiranda/cv.pdf).
+Cheers!
